@@ -1,1 +1,3 @@
 #excel project
+Hi,
+In my excel project I prepared a sample data with reference to monthly credit card statements and I cleaned the data with Power Query in EXCEL and we have two new tables to seperate the data based on the name of the transaction which will help in categorising the data into simple steps. After categorising the data using Xlookup function, we can obtain the total amount spent in the categories this can be done by Pivot table and the pivot chart shows the overall description of the pivot table. Now in order to find the highest spetn months I have used excel formulas to seperate the date from month and then use a pivot table to summarise the amount based on month and the categories which would show us a more detailed summary.
