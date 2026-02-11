@@ -1,1 +1,1 @@
-
+This project uses a sample sales dataset to demonstrate core Pandas skills, including data filtering, grouping, and pivot tables. Matplotlib was used to create a line chart for analyzing sales trends over time.
