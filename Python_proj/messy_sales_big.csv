@@ -1,0 +1,59 @@
+OrderID,CustomerName,Product,Category,Quantity,UnitPrice,OrderDate,Country
+1001.0,Customer_4,Cheese,Dairy,7.0,,2025-01-02,Brazil
+1002.0,Customer_14,Apple,,1.0,24.14,2025-01-20,Poland
+1003.0,Customer_1,Apple,Beverages,3.0,,2025-01-06,Italy
+1004.0,Customer_11,Orange Juice,Produce,7.0,6.94,,France
+1005.0,,Milk,,4.0,17.79,2025-01-21,France
+1006.0,Customer_6,Cod Fillet,Seafood,5.0,,2025-02-04,Poland
+1007.0,Customer_1,Cheese,Produce,4.0,7.13,2025-01-21,Germany
+1008.0,Customer_5,Orange Juice,Beverages,7.0,6.15,2025-02-26,
+1009.0,,Zander Fillet,Seafood,4.0,26.96,2025-01-04,Brazil
+1010.0,Customer_12,Bread,Seafood,6.0,17.98,2025-02-23,USA
+1011.0,Customer_12,,Seafood,3.0,3.8,,USA
+1012.0,Customer_14,Zander Fillet,Dairy,,8.4,2025-02-13,
+1013.0,Customer_12,Orange Juice,,8.0,26.06,2025-01-04,USA
+1014.0,Customer_11,,Produce,8.0,22.12,,USA
+1015.0,Customer_1,Banana,Seafood,2.0,15.4,,Poland
+1016.0,Customer_4,Salmon Steak,Produce,3.0,,2025-02-23,Germany
+1017.0,,,Dairy,4.0,,,
+1018.0,Customer_10,Salmon Steak,Seafood,1.0,1.4,2025-01-04,Poland
+1019.0,Customer_8,,Dairy,,20.87,,UK
+1020.0,Customer_3,Halibut Fillet,Seafood,6.0,8.91,2025-01-05,France
+1021.0,,Halibut Fillet,Dairy,,,2025-02-13,Italy
+1022.0,Customer_7,Cod Fillet,Seafood,,9.18,2025-01-14,
+1023.0,Customer_9,Orange Juice,Produce,7.0,18.51,,UK
+1024.0,Customer_5,Cheese,Produce,6.0,1.19,2025-02-23,Brazil
+1025.0,Customer_10,Halibut Fillet,,6.0,4.32,2025-02-06,Poland
+1026.0,Customer_12,Apple,Bakery,4.0,28.62,,Germany
+1027.0,,,Dairy,6.0,25.93,2025-02-03,UK
+,Customer_10,Salmon Steak,Seafood,8.0,15.67,,Germany
+1029.0,Customer_12,Halibut Fillet,Bakery,1.0,2.1,2025-02-04,Poland
+1030.0,Customer_4,Bread,Produce,,,2025-01-03,
+1031.0,Customer_10,,Dairy,8.0,27.2,2025-01-27,Brazil
+1032.0,Customer_11,Cheese,Produce,3.0,24.77,2025-01-29,
+,Customer_14,,Dairy,1.0,,2025-02-21,Poland
+,Customer_2,Orange Juice,,6.0,10.34,,Brazil
+1035.0,Customer_6,,Bakery,6.0,,,
+1036.0,Customer_6,,Produce,6.0,11.55,2025-01-11,Brazil
+1037.0,Customer_6,Halibut Fillet,Produce,4.0,12.91,2025-01-18,Brazil
+,Customer_5,Cheese,Dairy,2.0,29.77,,
+1039.0,Customer_7,,Bakery,3.0,11.73,2025-02-24,Italy
+1040.0,Customer_6,Cod Fillet,Beverages,2.0,10.98,,
+1041.0,Customer_13,,Dairy,3.0,,2025-02-23,Italy
+,Customer_2,Cod Fillet,Dairy,3.0,29.13,,Poland
+1043.0,Customer_9,,Seafood,7.0,10.43,2025-02-20,Italy
+1044.0,Customer_14,Salmon Steak,Produce,6.0,9.05,,Germany
+1045.0,,Zander Fillet,,9.0,27.26,,Italy
+1046.0,Customer_3,Bread,Bakery,6.0,20.28,2025-02-01,Poland
+,Customer_14,Cheese,Bakery,5.0,26.71,2025-01-13,
+1048.0,Customer_8,Halibut Fillet,,5.0,,,
+1049.0,Customer_10,Milk,Bakery,8.0,,2025-01-08,UK
+1050.0,Customer_3,Cheese,,2.0,16.25,2025-01-05,
+,Customer_10,Salmon Steak,Seafood,8.0,15.67,,Germany
+1036.0,Customer_6,,Produce,6.0,11.55,2025-01-11,Brazil
+1041.0,Customer_13,,Dairy,3.0,,2025-02-23,Italy
+1039.0,Customer_7,,Bakery,3.0,11.73,2025-02-24,Italy
+1003.0,Customer_1,Apple,Beverages,3.0,,2025-01-06,Italy
+1004.0,Customer_11,Orange Juice,Produce,7.0,6.94,,France
+1049.0,Customer_10,Milk,Bakery,8.0,,2025-01-08,UK
+1030.0,Customer_4,Bread,Produce,,,2025-01-03,
