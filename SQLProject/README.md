@@ -1,40 +1,33 @@
 
 📌 Project Overview
+Project Overview
 
-This project demonstrates intermediate to advanced SQL skills using a realistic sales database built in SQLite.
-The focus is on data analysis, business logic, and query design, rather than simple SELECT statements.
+This project demonstrates intermediate to advanced SQL skills using a realistic e-commerce / sales database built in SQLite.
 
-The project covers:
+The focus is on data analysis, business logic, and query design, beyond simple SELECT statements.
+It simulates real-world analytics tasks encountered in enterprise databases.
 
-Multi-table joins
+** Tech Stack
+**
+SQLite – relational database
 
-Aggregations and subqueries
+SQL – SELECT, JOINs, aggregations, subqueries, window functions
 
-Window functions
-
-Common business analytics use cases
-
-Clean, readable, and production-style SQL
+Python / Pandas (optional for ETL or validation)
 
 ** Database Schema**
 
-The database simulates an e-commerce / sales system with the following tables:
+The database contains the following tables:
 
-customers – customer details
-
-employees – employees handling orders
-
-categories – product categories
-
-products – product catalog
-
-orders – customer orders
-
-order_items – items within each order
-
-payments – payments made for orders
-
-Entity Relationships
+Table	Description
+customers--->	Customer details
+employees--->	Employees handling orders
+categories--->	Product categories
+products--->	Product catalog
+orders--->	Customer orders
+order_items--->	Items within each order
+payments--->	Payments made for orders
+**Entity Relationships**
 
 One customer → many orders
 
@@ -44,8 +37,8 @@ One product → belongs to one category
 
 One employee → handles many orders
 
-🧪 Skills Demonstrated
-🔹 SQL Fundamentals
+🚀** Features / Queries
+SQL Fundamentals**
 
 SELECT, INSERT, UPDATE
 
@@ -53,67 +46,22 @@ Filtering with WHERE
 
 Grouping with GROUP BY and HAVING
 
-🔹 Joins
+**Joins**
 
-INNER JOIN
+INNER JOIN, LEFT JOIN
 
-LEFT JOIN
+Anti-joins to find missing data
 
-Anti-joins (finding missing data)
+**Subqueries**
 
-🔹 Subqueries
+Nested and correlated subqueries
 
-Nested subqueries
+Aggregate-of-aggregate queries
 
-Correlated subqueries
+**Window Functions**
 
-Aggregate-of-aggregate patterns
-
-🔹 Window Functions
-
-RANK(), DENSE_RANK()
-
-ROW_NUMBER()
+RANK(), DENSE_RANK(), ROW_NUMBER()
 
 LAG()
 
 Running totals using SUM() OVER()
-
- **Business Questions Answered
- Data Manipulation**
-
-Insert new customers, products, and orders
-
-Update product prices and order statuses
-
-🔗 Joins & Aggregations
-
-Orders with customer and employee names
-
-Order totals and customer spending
-
-Products that were never ordered
-
-Employees and number of orders handled
-
- **Analytical Queries**
-
-Customers who spent more than the average customer
-
-Products priced above their category average
-
-Categories with above-average total sales
-
-Top-selling products by quantity
-
-Monthly revenue summary
-
-Percentage contribution of each category to total revenue
-
-** Window Function Analytics**
-
-Rank customers by total spending
-
-Rank products by price within category
-
-Running total of revenue over time
